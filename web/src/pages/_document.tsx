@@ -9,6 +9,7 @@ export default function Document() {
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
       <body className="bg-gray-900 bg-app bg-cover bg-no-repeat">
+        <Main />
         <NextScript />
       </body>
     </Html>

@@ -1,6 +1,6 @@
+import Image from 'next/image';
 import { FormEvent, useState } from 'react';
 import { api } from '../lib/axios';
-import Image from 'next/image';
 
 import appPreviewImg from '../assets/app-nlw-copa-preview.png';
 import logoImg from '../assets/logo.svg';
